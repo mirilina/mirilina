@@ -15,18 +15,18 @@
 ## Образование
 
 * **РАНХиГС** | Магистратура: «Финансы и кредит» (Финансовый менеджмент)
-* **РАНХиГС** | Повышение квалификации: [«Аналитик данных»](./certificates/diploma_ranepa.jpg) *(кликните для просмотра диплома)*
+* **РАНХиГС** | Повышение квалификации: [«Аналитик данных»](./certificates/diploma_ranepa.jpg) *(кликните для просмотра удостоверения)*
 * **Профильный стек:** Python (Pandas, NumPy, Scipy, BeautifulSoup, Matplotlib, Seaborn), реляционные СУБД и SQL, Yandex DataLens, Advanced Excel / Power Query
 
 ---
 
 ## Пройденные курсы
 
-* "Поколение Python": базы данных и SQL https://stepik.org/cert/2509463
-* Тестирование ПО с Нуля до Специалиста https://stepik.org/cert/2833399
-* Бизнес аналитик в IT с Нуля до Специалиста https://stepik.org/cert/3073483
-* Бизнес-Аналитик в IT https://stepik.org/course/241553
-* Аналитик данных: Excel, SQL, Python, BI, AI https://stepik.org/course/187230
+* [«Поколение Python»: базы данных и SQL](https://stepik.org/cert/2509463)
+* [Тестирование ПО с нуля до специалиста](https://stepik.org/cert/2833399)
+* [Бизнес-аналитик в IT с нуля до специалиста](https://stepik.org/cert/3073483)
+* [Бизнес-аналитик в IT](https://stepik.org/course/241553)
+* [Аналитик данных: Excel, SQL, Python, BI, AI](https://stepik.org/course/187230)
 * SQL Academy
 * Python Academy
 
