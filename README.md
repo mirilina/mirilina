@@ -55,5 +55,5 @@
 ## Контакты
 
 * **Telegram:** [@ваш_ник](https://t.me/ваш_ник)
-* **Email:** your_email@example.com
+* **Email:** angel.ru.99@mail.ru
 * **GitHub:** [mirilina](https://github.com/mirilina)
